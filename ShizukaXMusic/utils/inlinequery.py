@@ -5,27 +5,27 @@ answer = []
 answer.extend(
     [
         InlineQueryResultArticle(
-            title="🙄 ᴩᴀᴜsᴇ 🙄",
-            description=f"ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
+            title="🙄ᴠɪᴊᴀʏ💕ᴊɪʏᴀ ᴩᴀᴜsᴇ 🙄",
+            description=f"ʀᴏᴋ ᴅɪʏᴀ ʙᴇ ᴠɪᴅᴇᴏ.",
+            thumb_url="https://te.legra.ph/file/036135523034b99f44f79.jpg",
             input_message_content=InputTextMessageContent("/pause"),
         ),
         InlineQueryResultArticle(
-            title="😋 ʀᴇsᴜᴍᴇ 😋",
-            description=f"ʀᴇsᴜᴍᴇ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
+            title="😋ᴠɪᴊᴀʏ💕ᴊɪʏᴀ ʀᴇsᴜᴍᴇ 😋",
+            description=f"ᴄʜᴀʟᴜ ʜᴏ ɢʏᴇ ᴍᴏᴊ ᴋᴀʀᴏ.",
+            thumb_url="https://te.legra.ph/file/036135523034b99f44f79.jpg",
             input_message_content=InputTextMessageContent("/resume"),
         ),
         InlineQueryResultArticle(
-            title="🙂 sᴋɪᴩ 🙂",
-            description=f"sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ ᴀɴᴅ ᴍᴏᴠᴇs ᴛᴏ ᴛʜᴇ ɴᴇxᴛ sᴛʀᴇᴀᴍ.",
-            thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
+            title="🙂ᴠɪᴊᴀʏ💕ᴊɪʏᴀ sᴋɪᴩ 🙂",
+            description=f"sᴀʙᴀʀ ᴋᴀʀ ᴅᴜsʀᴀ ᴘʟᴀʏ ᴋᴀʀ ʀʜᴀ ʜᴜ.",
+            thumb_url="https://te.legra.ph/file/036135523034b99f44f79.jpg.jpg",
             input_message_content=InputTextMessageContent("/skip"),
         ),
         InlineQueryResultArticle(
-            title="🥺 ᴇɴᴅ 🥺",
-            description="ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://telegra.ph/file/c5952790fa8235f499749.jpg",
+            title="🥺ᴠɪᴊᴀʏ💕ᴊɪʏᴀ ᴇɴᴅ 🥺",
+            description="ᴋʜᴀᴛᴀᴍ ᴛᴀᴛᴀ ʙʏ.",
+            thumb_url="https://te.legra.ph/file/036135523034b99f44f79.jpg",
             input_message_content=InputTextMessageContent("/end"),
         ),
         InlineQueryResultArticle(
