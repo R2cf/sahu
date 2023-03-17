@@ -104,7 +104,7 @@ async def settings_back_markup(client, CallbackQuery: CallbackQuery, _):
         )
 
 
-## Audio and Video Quality
+## ᴠɪᴊᴀʏ💕ᴊɪʏᴀ Audio and Video Quality
 async def gen_buttons_aud(_, aud):
     if aud == "High":
         buttons = audio_quality_markup(_, high=True)
@@ -363,7 +363,7 @@ async def playmode_ans(client, CallbackQuery, _):
         return
 
 
-# Auth Users Settings
+# ᴠɪᴊᴀʏ💕ᴊɪʏᴀ Auth Users Settings
 @app.on_callback_query(filters.regex(pattern=r"^(AUTH|AUTHLIST)$") & ~BANNED_USERS)
 @ActualAdminCB
 async def authusers_mar(client, CallbackQuery, _):
